@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+.fir {
+  background-color: rgb(84, 75, 75);
+  height: 90px;
+}
+p {
+  color: rgb(199, 126, 126);
+  font-size: 25px;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: rgb(132, 139, 136);
+  font-size: xx-large;
+}
+h3 {
+  color: blue;
+  font-size: xx-large;
+}
+div {
+  color: royalblue;
+  font-size: 50px;
+}
+mark {
+  color: black;
+}
+.yy {
+  color: darkkhaki;
+}
